@@ -2,10 +2,10 @@
 
 
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
+
+
 - 🌱 [Kumoh National Institute of Technology](https://www.kumoh.ac.kr)
-- 🎧 recently listend: [die with a smile](https://www.youtube.com/watch?v=kPa7bsKwL-c)
-
-
+- 🎧 recently listend: [love.](https://music.youtube.com/watch?v=QX2dqXr8mOU&si=F1aMJPZ9knHDzP40)
 
 <br />
 <br />
