@@ -1,11 +1,11 @@
-# hi there👉🏻
+# HI THERE 🎄
 
 
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 
-- 🌱 [Kumoh National Institute of Technology](https://www.kumoh.ac.kr)
-- 🎧 recently listend: [love.](https://music.youtube.com/watch?v=QX2dqXr8mOU&si=F1aMJPZ9knHDzP40)
+- 🎅 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
+- 🎧 recently listend: [2023XMAS](https://music.youtube.com/playlist?list=PLK9k1yl8JEhO_hRFvT0wsPBmMOZJwyQIS)
 
 <br />
 <br />
