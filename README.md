@@ -1,11 +1,11 @@
-# [HI THERE 🎄](https://santatracker.google.com/intl/ko/)
+# [merry christmas 🎄](https://santatracker.google.com/intl/ko/)
 
 
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 
 - 🎅 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
-- 🎧 recently listend: [2023XMAS](https://music.youtube.com/playlist?list=PLK9k1yl8JEhO_hRFvT0wsPBmMOZJwyQIS)
+- 🎧 recently listend: [2024XMAS](https://music.youtube.com/playlist?list=PLJDZLbfUaeXYHpzll1wu5XIlIp9pFZVPB)
 
 <br />
 <br />
