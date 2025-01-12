@@ -1,11 +1,11 @@
-# [merry christmas 🎄](https://santatracker.google.com/intl/ko/)
+# happy new year 2025 🎊
 
 
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 
-- 🎅 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
-- 🎧 recently listend: [2024XMAS](https://music.youtube.com/playlist?list=PLJDZLbfUaeXYHpzll1wu5XIlIp9pFZVPB)
+- 👨🏻‍💻 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
+- 🎧 recently listend: [christmas eve montage](https://soundcloud.com/ciikki/christmas-eve-montage)
 
 <br />
 <br />
@@ -32,7 +32,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black&logoSize=auto&color=%23f1e5b5">
   <a href="https://obsidian.md/" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/MEMO-lightgray?style=for-the-badge&logo=Obsidian&logoColor=purple">
+      <img alt="Static Badge" src="https://img.shields.io/badge/obsidian-lightgray?style=for-the-badge&logo=Obsidian&logoColor=purple">
   </a>
 
 </p>
