@@ -5,7 +5,7 @@
 
 
 - 👨🏻‍💻 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
-- 🎧 recently listend: [christmas eve montage](https://soundcloud.com/ciikki/christmas-eve-montage)
+- 🎧 recently listend: [christmas eve montage](https://soundcloud.com/ciikki/christmas-eve-montage) (누르면 재생됩니다)
 
 <br />
 <br />
