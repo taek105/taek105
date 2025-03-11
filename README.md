@@ -22,7 +22,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white">
   <br />
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=white">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-skyblue?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   
 
