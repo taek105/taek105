@@ -5,7 +5,7 @@
 
 
 - 👨🏻‍💻 [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
-- 🎧 recently listend: [2025(youtube music)](https://music.youtube.com/playlist?list=PLJDZLbfUaeXYriYPF2anBIvLSPqaXoUQv&si=hc1W1NI1tOo-Dv8Y)
+- 🎧 recently listend: [2025A(youtube music)](https://music.youtube.com/playlist?list=PLJDZLbfUaeXab6fR_vMp3SJrKF-wAgkII&si=D80No1_XXBodEUDq)
 
 <br />
 <br />
