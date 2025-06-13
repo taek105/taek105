@@ -12,17 +12,17 @@
   
 ### 사용해 본 기술
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
+<!--   <img alt="Static Badge" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/langchain-003545?style=for-the-badge&logo=langchain&logoColor=white">
   <br />
   <img alt="Static Badge" src="https://img.shields.io/badge/Redis-purple?style=for-the-badge&logo=Redis&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white">
+<!--   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
   <br />
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-skyblue?style=for-the-badge&logo=kubernetes&logoColor=white">
+<!--   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-skyblue?style=for-the-badge&logo=kubernetes&logoColor=white"> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   
 
