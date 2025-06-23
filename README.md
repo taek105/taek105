@@ -3,8 +3,7 @@
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 
-- 👨🏻‍💻 bachelor's degree: [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
-- 🎧 recently listend: [2025A(youtube music)](https://music.youtube.com/playlist?list=PLJDZLbfUaeXab6fR_vMp3SJrKF-wAgkII&si=D80No1_XXBodEUDq)
+- 🎓 B.S in [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
 - 🛍️ [뭉쳐야 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) 
 
 <br />
