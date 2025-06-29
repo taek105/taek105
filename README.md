@@ -2,13 +2,10 @@
 
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
-
 - 🎓 B.S in [Kumoh National Institute of Technology - CSE](https://cs.kumoh.ac.kr/cs/index.do)
 - 🛍️ [뭉쳐야 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) 
 
-<br />
-<br />
-  
+
 ### 기술
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
@@ -24,12 +21,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
   
-  
-
 </p>
-
-<br />
-<br />
   
 ### 도구
 <p align="center">
