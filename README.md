@@ -3,7 +3,7 @@
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 - 🎓 B.S. in [Computer Software Engineering, Kumoh National Institute of Technology](https://cs.kumoh.ac.kr/cs/index.do)
-- 🛍️ [뭉쳐야 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) 
+- 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) 
 
 
 ### 기술
