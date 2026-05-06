@@ -3,7 +3,7 @@
 <!-- 🎶 👨🏻‍💻 🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 <!-- - 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) -->
-🧍‍♂️👕✨ [AI 옷입히기 플랫폼 - Build with AI GDG 해커톤](http://outfit-by-mom.duckdns.org/leaderboard)
+🧍‍♂️👕✨ [AI 옷입히기 플랫폼 - Build with AI GDG 해커톤](https://ai-outfit-builder.vercel.app/)
 
 
 ### 기술
