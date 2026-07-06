@@ -21,7 +21,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
   
-</p>
+<!-- </p>
   
 ### 도구
 <p align="center">
@@ -31,7 +31,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/obsidian-lightgray?style=for-the-badge&logo=Obsidian&logoColor=purple">
   </a>
 
-</p>
+</p> -->
 
 ---
 
