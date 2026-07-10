@@ -6,7 +6,7 @@
 🧍‍♂️👕✨ [AI 옷입히기 플랫폼 - Build with AI GDG 해커톤](https://ai-outfit-builder.vercel.app/)
 
 
-🌍🚀👨🏻‍💻 RAGFlow Contribution - [PR #16086](https://github.com/infiniflow/ragflow/pull/16806)
+🌍🚀👨🏻‍💻 [RAGFlow](https://github.com/infiniflow/ragflow) Contribution - [PR #16086](https://github.com/infiniflow/ragflow/pull/16806)
 
 
 ### 기술
