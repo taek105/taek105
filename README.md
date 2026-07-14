@@ -1,15 +1,14 @@
-# Hi, I'm 김효택 👋  
 
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 <!-- - 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) -->
-🧍‍♂️👕✨ [AI 옷입히기 플랫폼 - Build with AI GDG 해커톤](https://ai-outfit-builder.vercel.app/)
+🧍‍♂️👕✨ [AI dress up - Build with AI GDG hackerthon](https://ai-outfit-builder.vercel.app/)
 
 
 🌍🚀👨🏻‍💻 [RAGFlow](https://github.com/infiniflow/ragflow) Contribution - [PR #16086](https://github.com/infiniflow/ragflow/pull/16806)
 
 
-### 기술
+### Stack
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-green?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
