@@ -10,16 +10,16 @@
 
 ### Stack
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/java-green?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/langchain-003545?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white">
   <br />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Redis-purple?style=for-the-badge&logo=Redis&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=white">
-  <!-- <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Qdrant-gray?style=for-the-badge&logo=qdrant&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-gray?style=for-the-badge&logo=neo4j&logoColor=white">
   <br />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=white">
-<!--   <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-skyblue?style=for-the-badge&logo=kubernetes&logoColor=white"> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
   
