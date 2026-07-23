@@ -17,7 +17,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Qdrant-gray?style=for-the-badge&logo=qdrant&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-gray?style=for-the-badge&logo=neo4j&logoColor=white">
   <br />
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
