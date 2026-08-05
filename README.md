@@ -5,7 +5,7 @@
 🧍‍♂️👕✨ [AI dress up - Build with AI GDG hackerthon](https://ai-outfit-builder.vercel.app/)
 
 
-🌍🚀👨🏻‍💻 [RAGFlow](https://github.com/infiniflow/ragflow) Contributor - [PR #17227](https://github.com/infiniflow/ragflow/pull/17227), [PR #17892](https://github.com/infiniflow/ragflow/pull/17892), [PR #16897](https://github.com/infiniflow/ragflow/pull/16897), [PR #16806](https://github.com/infiniflow/ragflow/pull/16806)
+🌍🚀👨🏻‍💻 [RAGFlow](https://github.com/infiniflow/ragflow) Contributor - [PR #17227](https://github.com/infiniflow/ragflow/pull/17227), [#17892](https://github.com/infiniflow/ragflow/pull/17892), [#16897](https://github.com/infiniflow/ragflow/pull/16897), [#16806](https://github.com/infiniflow/ragflow/pull/16806)
 
 
 ### Stack
