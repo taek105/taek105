@@ -4,14 +4,14 @@
 <!-- - 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) -->
 ### Side Projects
 
-- **[SRTHelper](https://github.com/taek105/SRTHelper)** — SRT 운행 일정을 조회하고 취소표 예매를 자동화하는 개인 프로젝트. Selenium 기반 예매 자동화와 FastAPI 서버, Jinja2·JavaScript 기반 관리 화면 및 예매 성공 카카오톡 알림 구현 `Python` `FastAPI` `Selenium` `JavaScript`
-- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — 자연어로 생성한 의상을 바탕으로 엄마 AI가 코디를 평가하고 잔소리해주는 해커톤 프로젝트. Next.js 기반 웹 서비스와 이미지 생성·분석 AI를 연동해 실제 사용 가능한 형태로 배포 `Next.js` `Gemini` `Imagen` `SQLite`
+- **[SRTHelper](https://github.com/taek105/SRTHelper)** — A personal project that automates train schedule lookup and canceled-ticket reservations for **SRT, Super Rapid Train in Korea**. Built reservation automation with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations. `Python` `FastAPI` `Selenium` `JavaScript`
+- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project where users generate outfits from natural language prompts and a "Mom AI" evaluates the styling and gives playful feedback. Built and deployed a Next.js web service integrated with image generation and analysis AI. `Next.js` `Gemini` `Imagen` `SQLite`
 
 ### Open Source Contributions
 
 <table>
 <thead>
-<tr><th width="24%">Project</th><th>기여 내용</th><th width="14%">PR</th></tr>
+<tr><th width="24%">Project</th><th>Contribution</th><th width="14%">PR</th></tr>
 </thead>
 <tbody>
 
@@ -23,7 +23,7 @@
 `Open-source RAG Engine`
 
 </td>
-<td>문서 이미지 설명 경로에서 데이터셋 언어가 전달되지 않아 다른 언어로 설명이 생성될 수 있는 문제를 수정하고 회귀 테스트 추가</td>
+<td>Fixed missing dataset-language propagation in document image-description paths, which could cause descriptions to be generated in the wrong language, and added regression tests</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -32,7 +32,7 @@
 </tr>
 
 <tr>
-<td>Go 기반 DOCX·Markdown·PDF 이미지 처리 경로에도 데이터셋 언어를 전파하고 프롬프트 렌더링 및 fallback 로직 보완</td>
+<td>Extended dataset-language propagation to Go-based DOCX, Markdown, and PDF image-processing paths, and improved prompt rendering and fallback logic</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -41,7 +41,7 @@
 </tr>
 
 <tr>
-<td>Agent LLM 설정에서 명시적으로 지정한 `temperature=0`이 누락되어 provider 기본값이 사용되는 문제를 수정하고 회귀 테스트 추가</td>
+<td>Fixed an issue where an explicitly configured `temperature=0` was omitted from Agent LLM settings, causing the model provider's default value to be used, and added a regression test</td>
 <td>
 
 [#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-<td>Blob Storage의 20MiB 크기 제한을 환경변수로 설정할 수 있도록 개선하고 기본값 및 사용자 설정값 테스트 추가</td>
+<td>Made the 20 MiB Blob Storage size threshold configurable through an environment variable and added tests for both default and custom values</td>
 <td>
 
 [#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
