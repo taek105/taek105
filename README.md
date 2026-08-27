@@ -1,11 +1,28 @@
-
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
-<!-- - 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) -->
 ### Side Projects
 
-- **[SRTHelper](https://github.com/taek105/SRTHelper)** — A personal project that automates train schedule lookup and canceled-ticket reservations for **SRT, Super Rapid Train in Korea**. Built reservation automation with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations. `Python` `FastAPI` `Selenium` `JavaScript`
-- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project where users generate outfits from natural language prompts and a "Mom AI" evaluates the styling and gives playful feedback. Built and deployed a Next.js web service integrated with image generation and analysis AI. `Next.js` `Gemini` `Imagen` `SQLite`
+- **[SRTHelper](https://github.com/taek105/SRTHelper)** — A personal project that automates train schedule lookup and canceled-ticket reservations for **SRT, Super Rapid Train in Korea**. Built reservation automation with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.  
+  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project where users generate outfits from natural language prompts and a "Mom AI" evaluates the styling and gives playful feedback. Built and deployed a Next.js web service integrated with image generation and analysis AI.  
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img alt="Imagen" src="https://img.shields.io/badge/Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+
+---
+
+### Docker Images
+
+- **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — An Alpine Linux-based Docker image that provides JDK and GCC/G++ in a lightweight environment for compiling and running Java and C++ applications.  
+  <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+  
+---
 
 ### Open Source Contributions
 
@@ -17,7 +34,7 @@
 
 <tr>
 <td rowspan="4">
-
+  
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
 `Open-source RAG Engine`
@@ -61,6 +78,8 @@
 </tbody>
 </table>
 
+---
+
 ### Stack
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
@@ -74,18 +93,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
-  
-<!-- </p>
-  
-### 도구
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black&logoSize=auto&color=%23f1e5b5">
-  <a href="https://obsidian.md/" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/obsidian-lightgray?style=for-the-badge&logo=Obsidian&logoColor=purple">
-  </a>
 
-</p> -->
 
 ---
 
