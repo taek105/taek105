@@ -2,10 +2,10 @@
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
 <!-- - 🛍️ [뭉치면 산다 - 카테부 공동구매 플랫폼](https://moongsan.com/) -->
-🧍‍♂️👕✨ [AI dress up - Build with AI GDG hackerthon](https://ai-outfit-builder.vercel.app/)
+[AI dress up - Build with AI GDG hackerthon](https://ai-outfit-builder.vercel.app/)
 
 
-🌍🚀👨🏻‍💻 [RAGFlow](https://github.com/infiniflow/ragflow) Contributor - [PR #17227](https://github.com/infiniflow/ragflow/pull/17227), [#17892](https://github.com/infiniflow/ragflow/pull/17892), [#16897](https://github.com/infiniflow/ragflow/pull/16897), [#16806](https://github.com/infiniflow/ragflow/pull/16806)
+[RAGFlow](https://github.com/infiniflow/ragflow) Contributor - [PR #17227](https://github.com/infiniflow/ragflow/pull/17227), [#17892](https://github.com/infiniflow/ragflow/pull/17892), [#16897](https://github.com/infiniflow/ragflow/pull/16897), [#16806](https://github.com/infiniflow/ragflow/pull/16806)
 
 
 ### Stack
