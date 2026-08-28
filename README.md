@@ -33,14 +33,14 @@
 <tbody>
 
 <tr>
-<td rowspan="4">
+<td rowspan="5">
   
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
 `Open-source RAG Engine`
 
 </td>
-<td>Fixed missing dataset-language propagation in document image-description paths, which could cause descriptions to be generated in the wrong language, and added regression tests</td>
+<td>Fixed dataset-language propagation across document image-description paths and added regression coverage for multiple parsing flows</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-<td>Extended dataset-language propagation to Go-based DOCX, Markdown, and PDF image-processing paths, and improved prompt rendering and fallback logic</td>
+<td>Extended dataset-language handling to Go-based DOCX, Markdown, PDF, and image ingestion paths, including prompt rendering and fallback logic</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -58,19 +58,28 @@
 </tr>
 
 <tr>
-<td>Fixed an issue where an explicitly configured `temperature=0` was omitted from Agent LLM settings, causing the model provider's default value to be used, and added a regression test</td>
+<td>Added custom CA certificate support for WebDAV data sources, enabling connections to servers using private or self-signed CAs</td>
 <td>
 
-[#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
+[#16901](https://github.com/infiniflow/ragflow/pull/16901) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>Made the 20 MiB Blob Storage size threshold configurable through an environment variable and added tests for both default and custom values</td>
+<td>Made the 20 MiB Blob Storage size threshold configurable through an environment variable while preserving the existing default</td>
 <td>
 
 [#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
+
+</td>
+</tr>
+
+<tr>
+<td>Fixed Agent LLM configuration to preserve an explicitly configured `temperature=0` instead of falling back to the provider default</td>
+<td>
+
+[#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
 
 </td>
 </tr>
