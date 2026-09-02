@@ -2,7 +2,7 @@
 
 ### Side Projects
 
-- **[SRTHelper](https://github.com/taek105/SRTHelper)** — A personal project that automates train schedule lookup and canceled-ticket reservations for **SRT, Super Rapid Train**. Built reservation automation with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.  
+- **[KTXHelper](https://github.com/taek105/KTXHelper)** — A personal project that automates train schedule lookup and canceled-ticket reservations for **KTX, Korea Train eXpress**. Built reservation automation with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.  
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
