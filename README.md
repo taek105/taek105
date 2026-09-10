@@ -41,7 +41,7 @@
 `Open-source RAG Engine`
 
 </td>
-<td>Fixed dataset-language propagation across document image-description paths and added regression coverage for multiple parsing flows</td>
+<td>Fixed dataset-language propagation across document image-description paths</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-<td>Added immutable-field validation to Go document update APIs and replaced full-record saves with targeted updates to prevent ingestion metadata overwrites and stale-write races</td>
+<td>Added immutable-field validation to Go document update APIs</td>
 <td>
 
 [#19444](https://github.com/infiniflow/ragflow/pull/19444) `open`
@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-<td>Extended dataset-language handling to Go-based DOCX, Markdown, PDF, and image ingestion paths, including prompt rendering and fallback logic</td>
+<td>Extended dataset-language handling to Go-based DOCX, Markdown, PDF, and image ingestion paths</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -77,7 +77,7 @@
 </tr>
 
 <tr>
-<td>Made the 20 MiB Blob Storage size threshold configurable through an environment variable while preserving the existing default</td>
+<td>Made the 20 MiB Blob Storage size threshold configurable through an environment variable</td>
 <td>
 
 [#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
@@ -86,7 +86,7 @@
 </tr>
 
 <tr>
-<td>Fixed Agent LLM configuration to preserve an explicitly configured `temperature=0` instead of falling back to the provider default</td>
+<td>Fixed Agent LLM configuration to preserve an explicitly configured `temperature=0`</td>
 <td>
 
 [#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
