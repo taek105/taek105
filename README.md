@@ -34,7 +34,7 @@
 <tbody>
 
 <tr>
-<td rowspan="5">
+<td rowspan="6">
   
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
@@ -45,6 +45,15 @@
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
+
+</td>
+</tr>
+
+<tr>
+<td>Added immutable-field validation to Go document update APIs and replaced full-record saves with targeted updates to prevent ingestion metadata overwrites and stale-write races</td>
+<td>
+
+[#19444](https://github.com/infiniflow/ragflow/pull/19444) `open`
 
 </td>
 </tr>
