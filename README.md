@@ -53,7 +53,7 @@
 <td>Added immutable-field validation to Go document update APIs</td>
 <td>
 
-[#19444](https://github.com/infiniflow/ragflow/pull/19444) `open`
+[#19444](https://github.com/infiniflow/ragflow/pull/19444) `merged`
 
 </td>
 </tr>
