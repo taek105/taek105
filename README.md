@@ -43,10 +43,10 @@
   
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
-`오픈소스 RAG 엔진`
+`Star 90k+ OpenSource RAG Engine`
 
 </td>
-<td>사용자 메모리 추출·임베딩 비동기 파이프라인에 DB 기반 체크포인트와 재시도 구조를 도입해 장애 복구 및 중복 실행 방지</td>
+<td>Agent의 사용자 메모리 추출 비동기 파이프라인에 state 기반 재시도 구조 도입, 장애 복구 및 중복 실행 방지</td>
 <td>
 
 [#19512](https://github.com/infiniflow/ragflow/pull/19512) `open`
@@ -55,7 +55,7 @@
 </tr>
 
 <tr>
-<td>문서 이미지 설명 경로 전반에서 데이터셋 언어 설정이 일관되게 전달되도록 수정</td>
+<td>파싱 문서 이미지 설명 경로에 데이터셋 언어 설정이 일관되게 전달되도록 수정</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -64,7 +64,7 @@
 </tr>
 
 <tr>
-<td>Go 문서 업데이트 API에 immutable field 검증을 추가해 잘못된 데이터 변경 방지</td>
+<td>Go API의 파싱 진행 상태·청크·토큰 필드 변경을 차단하고 부분 업데이트 방식으로 개선</td>
 <td>
 
 [#19444](https://github.com/infiniflow/ragflow/pull/19444) `merged`
@@ -73,7 +73,7 @@
 </tr>
 
 <tr>
-<td>Go 기반 DOCX, Markdown, PDF, 이미지 수집 경로 전반으로 데이터셋 언어 처리 기능 확장</td>
+<td>Go 기반 문서 파싱 파이프라인에 데이터셋 언어 설정이 프롬프트에 제대로 반영되도록 개선</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -91,7 +91,7 @@
 </tr>
 
 <tr>
-<td>Agent의 LLM 설정에서 명시적으로 지정한 temperature=0 값이 유지되도록 수정</td>
+<td>Agent의 LLM 온도 설정값이 제대로 전달되도록 수정</td>
 <td>
 
 [#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
