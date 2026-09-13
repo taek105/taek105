@@ -3,20 +3,19 @@
   <a href="./README.md">한국어</a>
 </p>
 
+
+<!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
+
 ### Side Projects
 
-- **[KTXHelper](https://github.com/taek105/KTXHelper)** — A personal project that automates train schedule lookup and reservation of canceled seats for KTX (Korea Train eXpress). Built an automated reservation workflow using Selenium, with a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.
-
+- **[KTXHelper](https://github.com/taek105/KTXHelper)** — A personal project that automates KTX train schedule lookup and canceled-ticket reservations. Built an automated reservation workflow with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.  
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
 
-  <!--
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  -->
-
-- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project where users generate outfits from natural language prompts and a "Mom AI" evaluates the styling and gives playful feedback. Built and deployed a Next.js web service integrated with image generation and analysis AI.
-
+- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project that generates outfits from natural-language prompts and provides playful style feedback through a "Mom AI" evaluator. Built and deployed a Next.js web application integrating image generation and vision AI models.  
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img alt="Imagen" src="https://img.shields.io/badge/Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white">
@@ -26,11 +25,8 @@
 
 ### Docker Images
 
-- **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — An Alpine Linux-based Docker image that provides JDK and GCC/G++ in a lightweight environment for compiling and running Java and C++ applications.
-
-  <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx">
-    <img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
+- **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — A lightweight Alpine Linux-based Docker image that includes JDK and GCC/G++, designed for compiling and running Java and C++ applications.  
+  <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ---
 
@@ -38,101 +34,76 @@
 
 <table>
 <thead>
-<tr>
-  <th width="24%">Project</th>
-  <th>Contribution</th>
-  <th width="14%">PR</th>
-</tr>
+<tr><th width="24%">Project</th><th>Contribution</th><th width="14%">PR</th></tr>
 </thead>
 <tbody>
 
 <tr>
 <td rowspan="7">
-
+  
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
-`Open-source RAG Engine`
+`Star 90k+ OpenSource RAG Engine`
 
 </td>
-<td>
-Added durable, resumable execution for Go memory extraction tasks with persisted checkpoints, leases, and retry scheduling.
-</td>
+<td>Introduced a state-based retry mechanism to the asynchronous user-memory extraction pipeline for Agents, improving failure recovery and preventing duplicate execution</td>
 <td>
 
-[#19512](https://github.com/infiniflow/ragflow/pull/19512)  
-`open`
+[#19512](https://github.com/infiniflow/ragflow/pull/19512) `open`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Fixed dataset-language propagation across document image-description pipelines.
-</td>
+<td>Fixed inconsistent propagation of dataset language settings to the image-description path during document parsing</td>
 <td>
 
-[#17227](https://github.com/infiniflow/ragflow/pull/17227)  
-`merged`
+[#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Added immutable-field validation to Go document update APIs to prevent invalid updates.
-</td>
+<td>Prevented unintended updates to parsing progress, chunk, and token fields in the Go API by introducing partial-update behavior</td>
 <td>
 
-[#19444](https://github.com/infiniflow/ragflow/pull/19444)  
-`merged`
+[#19444](https://github.com/infiniflow/ragflow/pull/19444) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Extended dataset-language handling across Go-based DOCX, Markdown, PDF, and image ingestion pipelines.
-</td>
+<td>Fixed dataset language settings not being correctly reflected in prompts within the Go-based document parsing pipeline</td>
 <td>
 
-[#17892](https://github.com/infiniflow/ragflow/pull/17892)  
-`merged`
+[#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Added custom CA certificate support for WebDAV data sources, enabling connections to servers using private or self-signed CAs.
-</td>
+<td>Added support for custom CA certificates to the WebDAV data source</td>
 <td>
 
-[#16901](https://github.com/infiniflow/ragflow/pull/16901)  
-`merged`
+[#16901](https://github.com/infiniflow/ragflow/pull/16901) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Made the Blob Storage size threshold configurable through an environment variable.
-</td>
+<td>Fixed incorrect propagation of LLM temperature settings in Agents</td>
 <td>
 
-[#16806](https://github.com/infiniflow/ragflow/pull/16806)  
-`merged`
+[#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
 
 </td>
 </tr>
 
 <tr>
-<td>
-Fixed Agent LLM configuration to preserve explicitly configured `temperature=0` values.
-</td>
+<td>Made the Blob Storage size threshold configurable through an environment variable</td>
 <td>
 
-[#16897](https://github.com/infiniflow/ragflow/pull/16897)  
-`merged`
+[#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
 
 </td>
 </tr>
@@ -142,21 +113,20 @@ Fixed Agent LLM configuration to preserve explicitly configured `temperature=0` 
 
 ---
 
-### Stack
+### Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="LangChain" src="https://img.shields.io/badge/langchain-003545?style=for-the-badge&logo=langchain&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/langchain-003545?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white">
   <br />
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-gray?style=for-the-badge&logo=qdrant&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Qdrant-gray?style=for-the-badge&logo=qdrant&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=black">
   <br />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=black">
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
-</p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-skyblue?style=for-the-badge&logo=Docker&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=Google%20Cloud&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=white">
 
 ---
 
