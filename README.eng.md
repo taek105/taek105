@@ -49,7 +49,7 @@
 <td>Introduced a state-based retry mechanism to the asynchronous user-memory extraction pipeline for Agents, improving failure recovery and preventing duplicate execution</td>
 <td>
 
-[#19512](https://github.com/infiniflow/ragflow/pull/19512) `open`
+[#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
 
 </td>
 </tr>
