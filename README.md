@@ -49,7 +49,7 @@
 <td>Agent의 사용자 메모리 추출 비동기 파이프라인에 state 기반 재시도 구조 도입, 장애 복구 및 중복 실행 방지</td>
 <td>
 
-[#19512](https://github.com/infiniflow/ragflow/pull/19512) `open`
+[#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
 
 </td>
 </tr>
