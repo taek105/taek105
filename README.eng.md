@@ -46,7 +46,7 @@
 `Star 90k+ OpenSource RAG Engine`
 
 </td>
-<td>Introduced a state-based retry mechanism to the asynchronous user-memory extraction pipeline for Agents, improving failure recovery and preventing duplicate execution</td>
+<td><strong>Introduced a state-based retry mechanism to the asynchronous user-memory extraction pipeline for Agents, improving failure recovery and preventing duplicate execution</strong></td>
 <td>
 
 [#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
