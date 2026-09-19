@@ -6,7 +6,7 @@
 
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
-### 사이드 프로젝트
+### Side Projects
 
 - **[KTXHelper](https://github.com/taek105/KTXHelper)** — KTX 열차 시간표 조회와 취소표 예매를 자동화한 개인 프로젝트입니다. Selenium을 활용해 자동 예매 워크플로우를 구현했으며, FastAPI 기반 백엔드와 Jinja2/JavaScript 기반 관리 화면, 예매 성공 시 카카오톡 알림 기능을 구현했습니다.   
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
@@ -23,14 +23,14 @@
 
 ---
 
-### Docker 이미지
+### Docker images
 
 - **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — Java와 C++ 애플리케이션을 컴파일하고 실행할 수 있도록 JDK와 GCC/G++를 포함한 경량 Alpine Linux 기반 Docker 이미지입니다.  
   <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ---
 
-### 오픈소스 기여
+### OpenSource Contributions
 
 <table>
 <thead>
@@ -113,7 +113,7 @@
 
 ---
 
-### 기술 스택
+### Stack
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
