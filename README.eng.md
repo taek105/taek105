@@ -15,14 +15,14 @@
 <tbody>
 
 <tr>
-<td rowspan="7">
+<td rowspan="8">
   
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
-`Star 90k+ OpenSource RAG Engine`
+`90k+ Star Open-Source RAG Engine`
 
 </td>
-<td><strong>Introduced a state-based retry structure to the asynchronous user memory extraction pipeline of Agent, improving failure recovery and preventing duplicate execution</strong></td>
+<td><strong>Added state-based retries to the Agent user-memory extraction pipeline to support failure recovery and prevent duplicate execution</strong></td>
 <td>
 
 [#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
@@ -31,7 +31,16 @@
 </tr>
 
 <tr>
-<td>Fixed the dataset language setting to be consistently passed to the image description path of parsed documents</td>
+<td>Added versioning for RAG pipelines and support for restoring the exact pipeline version used in past runs</td>
+<td>
+
+[#19834](https://github.com/infiniflow/ragflow/pull/19834) `open`
+
+</td>
+</tr>
+
+<tr>
+<td>Fixed dataset language settings to be passed consistently through parsed document image-description paths</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -40,7 +49,7 @@
 </tr>
 
 <tr>
-<td>Blocked changes to parsing progress status, chunk, and token fields in the Go API and improved it to use partial updates</td>
+<td>Prevented updates to parsing progress, chunk, and token fields in the Go API and changed the update flow to use partial updates</td>
 <td>
 
 [#19444](https://github.com/infiniflow/ragflow/pull/19444) `merged`
@@ -49,7 +58,7 @@
 </tr>
 
 <tr>
-<td>Improved the Go-based document parsing pipeline so that the dataset language setting is properly reflected in prompts</td>
+<td>Fixed dataset language settings to be correctly reflected in prompts in the Go document parsing pipeline</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -58,7 +67,7 @@
 </tr>
 
 <tr>
-<td>Added custom CA certificate support to the WebDAV data source</td>
+<td>Added custom CA certificate support for WebDAV data sources</td>
 <td>
 
 [#16901](https://github.com/infiniflow/ragflow/pull/16901) `merged`
@@ -67,7 +76,7 @@
 </tr>
 
 <tr>
-<td>Fixed the Agent's LLM temperature setting value to be properly passed</td>
+<td>Fixed the Agent LLM temperature setting to be passed correctly</td>
 <td>
 
 [#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
@@ -76,7 +85,7 @@
 </tr>
 
 <tr>
-<td>Improved the Blob Storage size threshold so that it can be configured through an environment variable</td>
+<td>Made the Blob Storage size threshold configurable through an environment variable</td>
 <td>
 
 [#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
