@@ -15,7 +15,7 @@
 <tbody>
 
 <tr>
-<td rowspan="7">
+<td rowspan="8">
   
 **[RAGFlow](https://github.com/infiniflow/ragflow)**
 
@@ -26,6 +26,15 @@
 <td>
 
 [#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
+
+</td>
+</tr>
+
+<tr>
+<td>RAG 파이프라인 버전 관리, 과거 실행 시점 버전 복원 지원</td>
+<td>
+
+[#19834](https://github.com/infiniflow/ragflow/pull/19834) `open`
 
 </td>
 </tr>
