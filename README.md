@@ -6,30 +6,6 @@
 
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
 
-### Side Projects
-
-- **[KTXHelper](https://github.com/taek105/KTXHelper)** — KTX 열차 시간표 조회와 취소표 예매를 자동화한 개인 프로젝트입니다. Selenium을 활용해 자동 예매 워크플로우를 구현했으며, FastAPI 기반 백엔드와 Jinja2/JavaScript 기반 관리 화면, 예매 성공 시 카카오톡 알림 기능을 구현했습니다.   
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-
-- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — 자연어 프롬프트를 기반으로 사용자의 코디를 생성하고, "엄마 AI"가 스타일을 평가해 재미있는 피드백을 제공하는 해커톤 프로젝트입니다. 이미지 생성·분석 AI를 연동한 Next.js 웹 서비스를 구현하고 배포했습니다.  
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img alt="Imagen" src="https://img.shields.io/badge/Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-
----
-
-### Docker images
-
-- **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — Java와 C++ 애플리케이션을 컴파일하고 실행할 수 있도록 JDK와 GCC/G++를 포함한 경량 Alpine Linux 기반 Docker 이미지입니다.  
-  <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
----
-
 ### OpenSource Contributions
 
 <table>
@@ -110,6 +86,25 @@
 
 </tbody>
 </table>
+
+---
+
+### Docker images
+
+**[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?logo=docker&logoColor=white">
+
+---
+
+### Side Projects
+
+**[KTXHelper](https://github.com/taek105/KTXHelper)** — <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
+
+KTX 취소표 예매 자동화 도구. Selenium 자동 예매 워크플로우, FastAPI 백엔드, Jinja2/JavaScript 백오피스, 카카오톡 알림 기능 구현
+
+
+**[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+
+자연어 프롬프트 기반 패션 생성, "엄마 AI"가 스타일을 평가해 재미있는 피드백을 제공하는 해커톤 프로젝트. 이미지 생성·분석 LLM 연동, Next.js 웹 서비스 배포  
 
 ---
 
