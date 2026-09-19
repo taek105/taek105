@@ -1,34 +1,10 @@
 <p align="center">
-  <strong>English</strong> |
-  <a href="./README.md">한국어</a>
+  <a href="./README.md">한국어</a> |
+  <strong>English</strong>
 </p>
 
 
 <!-- 🎶 👨🏻‍💻🎧📈🌍📚🌟🎨💡🚀👉🏻👯🔭🤔😄📫💬⚡ -->
-
-### Side Projects
-
-- **[KTXHelper](https://github.com/taek105/KTXHelper)** — A personal project that automates KTX train schedule lookup and canceled-ticket reservations. Built an automated reservation workflow with Selenium, a FastAPI backend, a Jinja2/JavaScript-based admin interface, and KakaoTalk notifications for successful reservations.  
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-
-- **[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — A hackathon project that generates outfits from natural-language prompts and provides playful style feedback through a "Mom AI" evaluator. Built and deployed a Next.js web application integrating image generation and vision AI models.  
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img alt="Imagen" src="https://img.shields.io/badge/Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-
----
-
-### Docker Images
-
-- **[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — A lightweight Alpine Linux-based Docker image that includes JDK and GCC/G++, designed for compiling and running Java and C++ applications.  
-  <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
----
 
 ### Open Source Contributions
 
@@ -46,7 +22,7 @@
 `Star 90k+ OpenSource RAG Engine`
 
 </td>
-<td><strong>Introduced a state-based retry mechanism to the asynchronous user-memory extraction pipeline for Agents, improving failure recovery and preventing duplicate execution</strong></td>
+<td><strong>Introduced a state-based retry structure to the asynchronous user memory extraction pipeline of Agent, improving failure recovery and preventing duplicate execution</strong></td>
 <td>
 
 [#19512](https://github.com/infiniflow/ragflow/pull/19512) `merged`
@@ -55,7 +31,7 @@
 </tr>
 
 <tr>
-<td>Fixed inconsistent propagation of dataset language settings to the image-description path during document parsing</td>
+<td>Fixed the dataset language setting to be consistently passed to the image description path of parsed documents</td>
 <td>
 
 [#17227](https://github.com/infiniflow/ragflow/pull/17227) `merged`
@@ -64,7 +40,7 @@
 </tr>
 
 <tr>
-<td>Prevented unintended updates to parsing progress, chunk, and token fields in the Go API by introducing partial-update behavior</td>
+<td>Blocked changes to parsing progress status, chunk, and token fields in the Go API and improved it to use partial updates</td>
 <td>
 
 [#19444](https://github.com/infiniflow/ragflow/pull/19444) `merged`
@@ -73,7 +49,7 @@
 </tr>
 
 <tr>
-<td>Fixed dataset language settings not being correctly reflected in prompts within the Go-based document parsing pipeline</td>
+<td>Improved the Go-based document parsing pipeline so that the dataset language setting is properly reflected in prompts</td>
 <td>
 
 [#17892](https://github.com/infiniflow/ragflow/pull/17892) `merged`
@@ -82,7 +58,7 @@
 </tr>
 
 <tr>
-<td>Added support for custom CA certificates to the WebDAV data source</td>
+<td>Added custom CA certificate support to the WebDAV data source</td>
 <td>
 
 [#16901](https://github.com/infiniflow/ragflow/pull/16901) `merged`
@@ -91,7 +67,7 @@
 </tr>
 
 <tr>
-<td>Fixed incorrect propagation of LLM temperature settings in Agents</td>
+<td>Fixed the Agent's LLM temperature setting value to be properly passed</td>
 <td>
 
 [#16897](https://github.com/infiniflow/ragflow/pull/16897) `merged`
@@ -100,7 +76,7 @@
 </tr>
 
 <tr>
-<td>Made the Blob Storage size threshold configurable through an environment variable</td>
+<td>Improved the Blob Storage size threshold so that it can be configured through an environment variable</td>
 <td>
 
 [#16806](https://github.com/infiniflow/ragflow/pull/16806) `merged`
@@ -113,7 +89,26 @@
 
 ---
 
-### Tech Stack
+### Docker Images
+
+**[taek2/alpine-jdk-gxx](https://hub.docker.com/r/taek2/alpine-jdk-gxx)** — <a href="https://hub.docker.com/r/taek2/alpine-jdk-gxx"><img alt="Docker Pulls" src="https://img.shields.io/badge/Pulls-10k%2B-2496ED?logo=docker&logoColor=white">
+
+---
+
+### Side Projects
+
+**[KTXHelper](https://github.com/taek105/KTXHelper)** — <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
+
+KTX canceled-seat reservation automation tool. Implemented a Selenium-based automated reservation workflow, FastAPI backend, Jinja2/JavaScript back office, and KakaoTalk notification feature.
+
+
+**[AI Dress Up - Build with AI GDG Hackathon](https://ai-outfit-builder.vercel.app/)** — <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+
+A hackathon project that generates fashion based on natural-language prompts and provides fun feedback by having an "AI Mom" evaluate the style. Integrated image generation and analysis LLMs and deployed a Next.js web service.
+
+---
+
+### Stack
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
