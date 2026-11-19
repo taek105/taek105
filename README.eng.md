@@ -106,6 +106,10 @@
 
 ### Side Projects
 
+**[BoardScore](https://board-score.pages.dev/)** — <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white">
+
+A web app that calculates final scores for 19 board games according to their official rules. Implemented a per-game scoring engine that handles score tables, sets, and majority bonuses from just the chosen cards and counts, 432 tests built from official rulebook scoring examples, and 5-language support (English, Korean, Japanese, Chinese, French) with dark/light mode
+
 **[KTXHelper](https://github.com/taek105/KTXHelper)** — <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
 
 KTX canceled-seat reservation automation tool. Implemented a Selenium-based automated reservation workflow, FastAPI backend, Jinja2/JavaScript back office, and KakaoTalk notification feature.
