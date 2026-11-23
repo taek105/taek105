@@ -108,7 +108,7 @@
 
 **[BoardScore](https://board-score.pages.dev/)** — <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflarepages&logoColor=white">
 
-보드게임 최종 점수 계산기. 공식 규칙서 채점 예시로 만든 테스트 432개, 5개 언어 지원
+보드게임 점수 계산기. 5개 언어 지원
 
 **[KTXHelper](https://github.com/taek105/KTXHelper)** — <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
 
